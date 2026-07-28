@@ -27,7 +27,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aryan-raj-6833a2258/">
-  <img src="https://img.shields.io/badge/-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:a.raj130103@gmail.com">
