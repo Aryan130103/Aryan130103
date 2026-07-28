@@ -26,15 +26,15 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/aryan-raj-6833a2258/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+<a href="https://www.linkedin.com/in/aryan-raj-6833a2258/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:a.raj130103@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+ <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/SleepyCoder01/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
+ <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A101F" alt="LeetCode" />
 </a>
 </div>
