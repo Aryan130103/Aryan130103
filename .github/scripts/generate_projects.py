@@ -208,14 +208,14 @@ def card(p, x, y, idx):
     # language donut, animated draw-in — vertically centered in the card body
     langs = p.get("languages") or {}
     if langs:
-        cx, cy, r = CARD_W - 58, CARD_H // 2 + 6, 27
+        cx, cy, r = CARD_W - 40, CARD_H // 2 + 6, 27
         segs, legend = donut_segments(langs, cx, cy, r, b + 0.3)
         a(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{RING_BG}" stroke-width="9"/>')
         a(segs)
         top = legend[0]
         a(f'<text x="{cx}" y="{cy+4}" text-anchor="middle" font-size="11" font-weight="700" fill="{TEXT}">{top[1]*100:.0f}%</text>')
         # legend: fixed left column, dot then left-aligned text; ends well before the ring
-        dot_x = cx - r - 130
+        dot_x = cx - r - 92
         text_x = dot_x + 9
         ly = cy - 22
         for lang, frac, col in legend[:3]:
