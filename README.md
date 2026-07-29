@@ -15,15 +15,15 @@
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" style="border:none;">
+<td width="50%" align="center" valign="top">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-inky-27.vercel.app/api?username=Aryan130103&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="100%" src="https://github-readme-stats-omega-inky-27.vercel.app/api?username=Aryan130103&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Aryan's GitHub stats" />
 </picture>
 </td>
-<td width="50%" style="border:none;">
+<td width="50%" align="center" valign="top">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-inky-27.vercel.app/api/top-langs/?username=Aryan130103&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="100%" src="https://github-readme-stats-omega-inky-27.vercel.app/api/top-langs/?username=Aryan130103&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
@@ -55,19 +55,19 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; margin-left:auto; margin-right:auto;">
+<table align="center" border="0" cellspacing="0" cellpadding="6">
 <tr>
-<td style="border:none; padding:0 6px;">
+<td align="center">
 <a href="https://www.linkedin.com/in/aryan-raj-6833a2258/">
   <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
 </a>
 </td>
-<td style="border:none; padding:0 6px;">
+<td align="center">
 <a href="mailto:a.raj130103@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 </td>
-<td style="border:none; padding:0 6px;">
+<td align="center">
 <a href="https://leetcode.com/u/SleepyCoder01/">
   <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A101F" alt="LeetCode" />
 </a>
