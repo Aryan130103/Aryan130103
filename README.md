@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/projects/projects.svg" alt="Projects" />
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
