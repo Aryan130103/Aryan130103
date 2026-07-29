@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="70" viewBox="0 0 620 70" font-family="ui-monospace, JetBrains Mono, Menlo, Consolas, monospace" role="img" aria-label="Social links">
+<defs>
+<linearGradient id="accentSoc" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="0.5" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+</linearGradient>
+</defs>
+<rect width="620" height="70" fill="#0A101F"/>
+<line x1="0" y1="1" x2="620" y2="1" stroke="url(#accentSoc)" stroke-width="1.5" opacity="0.7"/>
+<line x1="0" y1="69" x2="620" y2="69" stroke="url(#accentSoc)" stroke-width="1.5" opacity="0.7"/>
+
+<a href="https://www.linkedin.com/in/aryan-raj-6833a2258/" target="_blank">
+  <rect x="20" y="15" width="180" height="40" rx="8" fill="#1E1B4B" stroke="#7C3AED" stroke-opacity="0.5"/>
+  <text x="46" y="40" font-size="12" font-weight="700" fill="#C4B5FD">in</text>
+  <text x="70" y="40" font-size="12" font-weight="700" letter-spacing="1" fill="#EDE9FE">LINKEDIN</text>
+</a>
+
+<a href="mailto:a.raj130103@gmail.com" target="_blank">
+  <rect x="220" y="15" width="150" height="40" rx="8" fill="#1E1B4B" stroke="#10B981" stroke-opacity="0.5"/>
+  <text x="240" y="40" font-size="13" font-weight="700" fill="#10B981">M</text>
+  <text x="262" y="40" font-size="12" font-weight="700" letter-spacing="1" fill="#EDE9FE">EMAIL</text>
+</a>
+
+<a href="https://leetcode.com/u/SleepyCoder01/" target="_blank">
+  <rect x="390" y="15" width="210" height="40" rx="8" fill="#1E1B4B" stroke="#F59E0B" stroke-opacity="0.5"/>
+  <text x="410" y="40" font-size="13" font-weight="700" fill="#F59E0B">&#9670;</text>
+  <text x="432" y="40" font-size="12" font-weight="700" letter-spacing="1" fill="#EDE9FE">LEETCODE</text>
+</a>
+</svg>
