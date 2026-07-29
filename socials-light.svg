@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="70" viewBox="0 0 410 70" font-family="ui-monospace, JetBrains Mono, Menlo, Consolas, monospace" role="img" aria-label="Social links">
+<defs>
+<linearGradient id="accentSoc" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="0.5" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+</linearGradient>
+</defs>
+<rect width="410" height="70" fill="#F8FAFC"/>
+<line x1="0" y1="1" x2="410" y2="1" stroke="url(#accentSoc)" stroke-width="1.5" opacity="0.7"/>
+<line x1="0" y1="69" x2="410" y2="69" stroke="url(#accentSoc)" stroke-width="1.5" opacity="0.7"/>
+
+<!-- LinkedIn: rect x=20 w=120 (spans 20-140), icon at x=36 (16px pad), text at x=60 -->
+<a href="https://www.linkedin.com/in/aryan-raj-6833a2258/" target="_blank">
+  <rect x="20" y="15" width="120" height="40" rx="8" fill="#EDE9FE" stroke="#7C3AED" stroke-opacity="0.5"/>
+  <g transform="translate(36,27)">
+    <path fill="#6D28D9" d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/>
+  </g>
+  <text x="60" y="39" font-size="12" font-weight="700" fill="#0F172A" letter-spacing="1">LINKEDIN</text>
+</a>
+
+<!-- Email: rect x=154 w=96 (spans 154-250), icon at x=170, text at x=194 -->
+<a href="mailto:a.raj130103@gmail.com" target="_blank">
+  <rect x="154" y="15" width="96" height="40" rx="8" fill="#EDE9FE" stroke="#10B981" stroke-opacity="0.5"/>
+  <g transform="translate(170,27) scale(0.03125)">
+    <path fill="#10B981" d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+  </g>
+  <text x="194" y="39" font-size="12" font-weight="700" fill="#0F172A" letter-spacing="1">EMAIL</text>
+</a>
+
+<!-- LeetCode: rect x=264 w=120 (spans 264-384), icon at x=280, text at x=304 -->
+<a href="https://leetcode.com/u/SleepyCoder01/" target="_blank">
+  <rect x="264" y="15" width="120" height="40" rx="8" fill="#EDE9FE" stroke="#F59E0B" stroke-opacity="0.5"/>
+  <g transform="translate(280,27) scale(0.667)">
+    <path fill="#F59E0B" d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104 5.35 5.35 0 0 0-.125.513 5.527 5.527 0 0 0 .062 2.362 5.83 5.83 0 0 0 .349 1.017 5.938 5.938 0 0 0 1.271 1.818l4.277 4.193.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-.8-.647-1.766-1.045-2.774-1.202l2.015-2.158A1.384 1.384 0 0 0 13.483 0zm-2.866 12.815a1.38 1.38 0 0 0-1.38 1.382 1.38 1.38 0 0 0 1.38 1.382H20.79a1.38 1.38 0 0 0 1.38-1.382 1.38 1.38 0 0 0-1.38-1.382z"/>
+  </g>
+  <text x="304" y="39" font-size="12" font-weight="700" fill="#0F172A" letter-spacing="1">LEETCODE</text>
+</a>
+</svg>
