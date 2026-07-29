@@ -50,11 +50,25 @@
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
+
+<a href="https://www.linkedin.com/in/aryan-raj-6833a2258/" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials-light.svg" />
-  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials-light.svg" alt="Social links" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/linkedin-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/linkedin-light.svg" alt="LinkedIn" />
 </picture>
+</a>
+<a href="mailto:a.raj130103@gmail.com" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/mail-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/mail-light.svg" alt="Email" />
+</picture>
+</a>
+<a href="https://leetcode.com/u/SleepyCoder01/" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/leetcode-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/leetcode-light.svg" alt="LeetCode" />
+</picture>
+</a>
+
 </div>
-<!-- ===== END SOCIAL BADGES ===== -->
 <!-- ===== END SOCIAL BADGES ===== -->
