@@ -1,16 +1,37 @@
 [
   {
-    "name": "Project One",
-    "repo": "Aryan130103/project-one",
+    "name": "AI Resume Analyzer",
+    "repo": "Aryan130103/AI-Resume-Analyzer",
     "logo": "logo.png",
-    "description": "Short one-line description of what this project does",
-    "tags": ["Python", "Flask", "SQL"]
+    "description": "AI Resume Screening System",
+    "tags": ["React.js", "JavaScript", "Groq API", "HTML", "CSS"]
   },
   {
-    "name": "Project Two",
-    "repo": "Aryan130103/project-two",
+    "name": "Data Science Projects",
+    "repo": "Aryan130103/Data-Science-Projects",
     "logo": "logo.png",
-    "description": "Short one-line description of what this project does",
-    "tags": ["React", "Node.js", "MongoDB"]
+    "description": "Contains my python and AI/ML projects",
+    "tags": ["Python", "PyTorch", "TensorFlow", "GAN"]
+  },
+  {
+    "name": "DSA-SQL",
+    "repo": "Aryan130103/DSA-SQL",
+    "logo": "logo.png",
+    "description": "Data Structures, Algorithms and SQL practice",
+    "tags": ["C++", "SQL"]
+  },
+  {
+    "name": "Finance Dashboard",
+    "repo": "Aryan130103/Finance-Dashboard",
+    "logo": "logo.png",
+    "description": "Finance tracking and analytics dashboard",
+    "tags": ["React.js", "JavaScript", "HTML", "CSS"]
+  },
+  {
+    "name": "Projects",
+    "repo": "Aryan130103/Projects",
+    "logo": "logo.png",
+    "description": "Contains my work samples",
+    "tags": ["C++", "Python", "HTML", "CSS", "JavaScript"]
   }
 ]
