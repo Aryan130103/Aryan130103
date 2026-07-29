@@ -215,7 +215,7 @@ def card(p, x, y, idx):
         top = legend[0]
         a(f'<text x="{cx}" y="{cy+4}" text-anchor="middle" font-size="11" font-weight="700" fill="{TEXT}">{top[1]*100:.0f}%</text>')
         # legend: fixed left column, dot then left-aligned text; ends well before the ring
-        dot_x = cx - r - 145
+        dot_x = cx - r - 120
         text_x = dot_x + 9
         ly = cy - 22
         for lang, frac, col in legend[:3]:
