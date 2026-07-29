@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Project One",
+    "repo": "Aryan130103/project-one",
+    "logo": "logo.png",
+    "description": "Short one-line description of what this project does",
+    "tags": ["Python", "Flask", "SQL"]
+  },
+  {
+    "name": "Project Two",
+    "repo": "Aryan130103/project-two",
+    "logo": "logo.png",
+    "description": "Short one-line description of what this project does",
+    "tags": ["React", "Node.js", "MongoDB"]
+  }
+]
