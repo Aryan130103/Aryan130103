@@ -59,4 +59,3 @@
 <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials.svg" alt="Social links" />
 </div>
 <!-- ===== END SOCIAL BADGES ===== -->
-<!-- ===== END SOCIAL BADGES ===== -->
