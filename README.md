@@ -54,13 +54,13 @@
 <a href="https://www.linkedin.com/in/aryan-raj-6833a2258/" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/linkedin-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/linkedin-light.svg" style="margin:4px" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/linkedin-light.svg" style="margin:10px" alt="LinkedIn" />
 </picture>
 </a>
 <a href="mailto:a.raj130103@gmail.com" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/mail-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/mail-light.svg" style="margin:4px" alt="Email" />
+  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/mail-light.svg" style="margin:10px" alt="Email" />
 </picture>
 </a>
 <a href="https://leetcode.com/u/SleepyCoder01/" target="_blank">
