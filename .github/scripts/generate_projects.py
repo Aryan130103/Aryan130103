@@ -100,8 +100,13 @@ def wrap_text(s, max_chars, max_lines=2):
         lines[-1] = lines[-1][:max_chars-1].rstrip() + "…"
     return lines
 
+LANG_LABEL_OVERRIDES = {
+    "Jupyter Notebook": "Google Colab",
+}
+
 def donut_segments(languages, cx, cy, r, begin):
     """Animated donut: each segment draws itself in sequence (SMIL)."""
+    languages = {LANG_LABEL_OVERRIDES.get(k, k): v for k, v in languages.items()}
     total = sum(languages.values()) or 1
     entries = sorted(languages.items(), key=lambda kv: -kv[1])[:4]
     other = total - sum(v for _, v in entries)
