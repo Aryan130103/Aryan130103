@@ -21,8 +21,8 @@ THEMES = {
         "DIM": "#475569",
         "STROKE": "rgba(34,211,238,0.28)", "STROKE_HI": "rgba(34,211,238,0.5)",
         "STROKE_LO": "rgba(34,211,238,0.22)", "BARLINE": "rgba(255,255,255,0.08)",
-        "RING_BG": "rgba(148,163,184,0.15)", "PILL_BG": "rgba(124,58,237,0.28)",
-        "PILL_STROKE": "rgba(167,139,250,0.5)", "MONO_TX": "#EDE9FE",
+        "RING_BG": "rgba(148,163,184,0.15)", "PILL_BG": "rgba(219,39,119,0.28)",
+        "PILL_STROKE": "rgba(244,114,182,0.5)", "MONO_TX": "#EDE9FE", "PILL_TX": "#F9A8D4",
     },
     "light": {
         "BG": "#F8FAFC", "PANEL": "#FFFFFF", "PANEL_BAR": "#F1F5F9",
@@ -31,14 +31,14 @@ THEMES = {
         "DIM": "#94A3B8",
         "STROKE": "rgba(8,145,178,0.30)", "STROKE_HI": "rgba(8,145,178,0.55)",
         "STROKE_LO": "rgba(8,145,178,0.20)", "BARLINE": "rgba(0,0,0,0.08)",
-        "RING_BG": "rgba(100,116,139,0.20)", "PILL_BG": "rgba(124,58,237,0.12)",
-        "PILL_STROKE": "rgba(124,58,237,0.4)", "MONO_TX": "#FFFFFF",
+        "RING_BG": "rgba(100,116,139,0.20)", "PILL_BG": "rgba(219,39,119,0.12)",
+        "PILL_STROKE": "rgba(219,39,119,0.4)", "MONO_TX": "#FFFFFF", "PILL_TX": "#DB2777",
     },
 }
 
 # active palette — set by set_theme(); defaults to dark
 BG = PANEL = PANEL_BAR = CYAN = VIOLET = VIOLET2 = EMERALD = TEXT = MUTED = DIM = None
-STROKE = STROKE_HI = STROKE_LO = BARLINE = RING_BG = PILL_BG = PILL_STROKE = MONO_TX = None
+STROKE = STROKE_HI = STROKE_LO = BARLINE = RING_BG = PILL_BG = PILL_STROKE = MONO_TX = PILL_TX = None
 DONUT_COLORS = []
 
 def set_theme(name):
@@ -196,7 +196,7 @@ def card(p, x, y, idx):
     for tag in (p.get("tags") or [])[:3]:
         tw = len(tag) * 6.6 + 14
         a(f'<rect x="{tx}" y="118" width="{tw:.0f}" height="17" rx="8.5" fill="{PILL_BG}" stroke="{PILL_STROKE}"/>')
-        a(f'<text x="{tx + tw/2:.0f}" y="130" text-anchor="middle" font-size="9.5" fill="{VIOLET}">{esc(tag)}</text>')
+        a(f'<text x="{tx + tw/2:.0f}" y="130" text-anchor="middle" font-size="9.5" fill="{PILL_TX}">{esc(tag)}</text>')
         tx += tw + 7
 
     # bottom row: stars + updated
@@ -208,7 +208,7 @@ def card(p, x, y, idx):
     # language donut, animated draw-in — vertically centered in the card body
     langs = p.get("languages") or {}
     if langs:
-        cx, cy, r = CARD_W - 48, CARD_H // 2 + 6, 27
+        cx, cy, r = CARD_W - 40, CARD_H // 2 + 6, 27
         segs, legend = donut_segments(langs, cx, cy, r, b + 0.3)
         a(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{RING_BG}" stroke-width="9"/>')
         a(segs)
