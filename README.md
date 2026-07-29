@@ -41,13 +41,20 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/projects/projects.svg" alt="Projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/projects/projects.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/projects/projects-light.svg" alt="Projects" />
+</picture>
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials.svg" alt="Social links" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials-light.svg" />
+  <img src="https://raw.githubusercontent.com/Aryan130103/Aryan130103/main/socials-light.svg" alt="Social links" />
+</picture>
 </div>
 <!-- ===== END SOCIAL BADGES ===== -->
 <!-- ===== END SOCIAL BADGES ===== -->
