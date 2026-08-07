@@ -1,62 +1,44 @@
 [
   {
+    "name": "LinkCraft",
+    "repo": "Aryan130103/LinkCraft",
+    "logo": "linkcraft.png",
+    "description": "Full-stack URL shortener with branded, custom link previews",
+    "tags": ["Python", "Flask", "SQLite", "JavaScript", "Flask-Limiter"]
+  },
+  {
     "name": "AI Resume Analyzer",
     "repo": "Aryan130103/AI-Resume-Analyzer",
     "logo": "ai_resume.png",
     "description": "AI Resume Screening System",
-    "tags": [
-      "React.js",
-      "JavaScript",
-      "Groq API",
-      "HTML",
-      "CSS"
-    ]
+    "tags": ["React.js", "JavaScript", "Groq API", "HTML", "CSS"]
   },
   {
     "name": "Data Science Projects",
     "repo": "Aryan130103/Data-Science-Projects",
     "logo": "data_science.png",
     "description": "Contains my python and AI/ML projects",
-    "tags": [
-      "Python",
-      "PyTorch",
-      "TensorFlow",
-      "GAN"
-    ]
+    "tags": ["Python", "PyTorch", "TensorFlow", "GAN"]
   },
   {
     "name": "DSA-SQL",
     "repo": "Aryan130103/DSA-SQL",
     "logo": "dsa_sql.png",
     "description": "Data Structures, Algorithms and SQL practice",
-    "tags": [
-      "C++",
-      "SQL"
-    ]
+    "tags": ["C++", "SQL"]
   },
   {
     "name": "Finance Dashboard",
     "repo": "Aryan130103/Finance-Dashboard",
     "logo": "finance.png",
     "description": "Finance tracking and analytics dashboard",
-    "tags": [
-      "React.js",
-      "JavaScript",
-      "HTML",
-      "CSS"
-    ]
+    "tags": ["React.js", "JavaScript", "HTML", "CSS"]
   },
   {
     "name": "Projects",
     "repo": "Aryan130103/Projects",
     "logo": "projects.png",
     "description": "Contains my work samples",
-    "tags": [
-      "C++",
-      "Python",
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
+    "tags": ["C++", "Python", "HTML", "CSS", "JavaScript"]
   }
 ]
