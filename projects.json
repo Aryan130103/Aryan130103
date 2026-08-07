@@ -2,7 +2,7 @@
   {
     "name": "LinkCraft",
     "repo": "Aryan130103/LinkCraft",
-    "logo": "linkcraft.png",
+    "logo": "lc_logo.png",
     "description": "Full-stack URL shortener with branded, custom link previews",
     "tags": ["Python", "Flask", "SQLite", "JavaScript", "Flask-Limiter"]
   },
