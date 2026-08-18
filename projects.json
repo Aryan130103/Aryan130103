@@ -7,6 +7,13 @@
     "tags": ["Python", "Flask", "SQLite", "JavaScript", "Flask-Limiter"]
   },
   {
+    "name": "Support & TAM AI Toolkit",
+    "repo": "Aryan130103/Support-TAM-AI-Toolkit",
+    "logo": "support_tam_ai.png",
+    "description": "LLM-powered ticket triage and account brief generator with an automated eval harness",
+    "tags": ["Python", "FastAPI", "Streamlit", "Groq API", "scikit-learn"]
+  },
+  {
     "name": "AI Resume Analyzer",
     "repo": "Aryan130103/AI-Resume-Analyzer",
     "logo": "ai_resume.png",
